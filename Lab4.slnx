@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Step1_order/Step1_order.vcxproj" Id="c4924f25-bc1d-4727-aac0-3a9cd938d02e" />
+  <Project Path="Step2_loops/Step2_loops.vcxproj" Id="36083f80-7181-49af-94e6-f660a3212441" />
+  <Project Path="Step3_bugs/Step3_bugs.vcxproj" Id="cdeb896f-7816-4f7f-9626-d652fd3efbc0" />
+  <Project Path="Step4_wait/Step4_wait.vcxproj" Id="3cac1833-17e3-4a07-bc28-714ce8f8870f" />
+  <Project Path="Step5_variant/Step5_variant.vcxproj" Id="608ce866-573c-4a66-8e89-cce4461e5fef" />
+</Solution>
